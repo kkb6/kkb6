@@ -1,0 +1,9 @@
+{
+    "分类url": "type/id/{cateId}/page/{catePg}.html",
+    "直接播放": "1",
+    "标题": "title=&&",
+    "链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]",
+    "搜索url": "/search/page/{pg}/wd/{wd}.html",
+    "分类": "&&",
+    "分类值": "1&6&"
+}
